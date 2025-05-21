@@ -1,4 +1,4 @@
-# EX - 2 Cloud Storage Creation (S3) And Launching An (Ec2) Instance In AWS
+# EX - 2:  Cloud Storage Creation (S3) And Launching an (EC2) Instance in AWS
 
 ## Aim:
 Sign up for AWS. Visit AWS Console and create an account. Set up IAM roles and users with appropriate permissions. Navigate AWS Services. Log in to the AWS Management Console. Explore EC2, S3, IAM, RDS, VPC, and other key services. Understand AWS Free Tier Limits
